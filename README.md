@@ -1,7 +1,9 @@
 👋 Hi! I'm Natalia Rovere. 
 I'am an UX UI Designer, Architect and Artist. 
 
+
 ABOUT ME:
+
 I consider myself a highly creative, dedicated and committed individual and I'm always seeking opportunities to learn and grow.
 
 I enjoy the challenge of designing with a focus on simplifying or solving problems for a client or user. This motivation to seek improvement and optimization is something I have applied both in my career as an Architect and as a UX/UI Designer.
@@ -13,5 +15,6 @@ Mis habilidades:
 
 
 CONTACT:
+
 Mail: [nr.rovere@gmail.com]
 LinkedIn: [https://www.linkedin.com/in/nrovere/]
