@@ -16,5 +16,5 @@ Mis habilidades:
 
 CONTACT:
 
-Mail: [nr.rovere@gmail.com]
-LinkedIn: [https://www.linkedin.com/in/nrovere/]
+- Mail: [nr.rovere@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/nrovere/]
