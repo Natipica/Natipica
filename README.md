@@ -1,10 +1,11 @@
-#Natalia Rovere
+<strong>Natalia Rovere</strong>
 <br>
 
-###UX UI Designer - Architect - Artist
+UX UI Designer - Architect - Artist
 <br>
+<hr>
 
-##ABOUT ME:
+<strong>ABOUT ME:</strong>
 <br>
 I consider myself a highly creative, dedicated and committed individual and I'm always seeking opportunities to learn and grow.
 
@@ -14,9 +15,11 @@ I am passionate about connecting with others and empathizing with their thoughts
 
 Through this experience, along with my work opportunities, I have been able to develop leadership and teamwork skills.
 <br>
+<br>
 
-##CONTACT:
+<strong>CONTACT:</strong>
 <br>
 > Mail: [nr.rovere@gmail.com]
-<br>
+> 
 > LinkedIn: [https://www.linkedin.com/in/nrovere/]
+<br>
